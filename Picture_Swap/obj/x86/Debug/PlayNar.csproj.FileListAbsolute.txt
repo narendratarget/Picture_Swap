@@ -1,0 +1,12 @@
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\bin\Debug\Picture_Swap.exe
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\bin\Debug\Picture_Swap.pdb
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\bin\Debug\en\Picture_Swap.resources.dll
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.About.resources
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.Form1.resources
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.Picture_Swap.resources
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.Properties.Resources.resources
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.Picture_Swap.en.resources
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\PlayNar.csproj.GenerateResource.Cache
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\en\Picture_Swap.resources.dll
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.exe
+E:\Stuff\Projects\Picture_Swap\Picture_Swap\obj\x86\Debug\Picture_Swap.pdb
